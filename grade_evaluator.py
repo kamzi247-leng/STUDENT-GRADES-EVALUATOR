@@ -2,7 +2,7 @@
 name = input("Enter Student name: ")
 course_name = input("Enter Course name: ")
 score = float(input("Enter Student score(0-100): "))
-print("")
+print(" ")
 
 print(f"Student Name: {name}")
 print(f"Course Name: {course_name}")
